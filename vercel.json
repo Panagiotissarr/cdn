@@ -46,7 +46,7 @@
     },
     {
       "source": "/download/TTA-collection",
-      "destination": "https://github.com/Panagiotissarr/code/releases/download/Aspect/Aspects.Image.Collection.zip"
+      "destination": "https://github.com/Panagiotissarr/cdn/releases/download/Aspect/Aspects.Image.Collection.zip"
     }
   ]
 }
