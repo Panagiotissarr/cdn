@@ -1,0 +1,53 @@
+{
+  "redirects": [
+    {
+      "source": "/github",
+      "destination": "https://github.com/panagiotissarr/"
+    },
+    {
+      "source": "/cheatsheets",
+      "destination": "https://code.sarris.dev/cheatsheet/index.html"
+    },
+    {
+      "source": "/",
+      "destination": "https://sarris.dev/"
+    },
+    {
+      "source": "/yt",
+      "destination": "https://www.youtube.com/@notpana"
+    },
+    {
+      "source": "/youtube",
+      "destination": "https://www.youtube.com/@notpana"
+    },
+    {
+      "source": "/soundtracks/undertale",
+      "destination": "https://github.com/Panagiotissarr/code/releases/download/Friends/Undertale-Soundtrack.zip"
+    },
+    {
+      "source": "/soundtrack/undertale",
+      "destination": "https://github.com/Panagiotissarr/code/releases/download/Friends/Undertale-Soundtrack.zip"
+    },
+    {
+      "source": "/soundtracks/details/undertale",
+      "destination": "https://github.com/Panagiotissarr/code/releases/Friends"
+    },
+    {
+      "source": "/soundtrack/details/undertale",
+      "destination": "https://github.com/Panagiotissarr/code/releases/Friends"
+    },
+    {
+      "source": "/gifs/undertale",
+      "destination": "https://github.com/Panagiotissarr/code/releases/download/Friends/Sans.gif"
+    },
+    {
+      "source": "/free/robux/and/vbucks",
+      "destination": "https://urlto.me/2GUfd"
+    },
+    {
+      "source": "/download/TTA-collection",
+      "destination": "https://github.com/Panagiotissarr/code/releases/download/Aspect/Aspects.Image.Collection.zip"
+    }
+  ]
+}
+
